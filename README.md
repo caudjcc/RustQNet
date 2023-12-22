@@ -5,19 +5,12 @@
 Code for paper: **Accurate and Large-scale Quantitative Inversion of Wheat Stripe Rust Disease Index: A Novel Multimodal UAV Dataset and Deep Learning Benchmark [[Arxiv]](https://scholar.google.com.hk/citations?user=mfrNGLoAAAAJ&hl=zh-CN)**
 
 ## 1 Overview
-
 <p align="center">
-
-```
-<img src="pic/RustQNet.png" width="70%" /> <br />
-
-<em> 
-
-Figure 1: Overview of RustQNet. RustQNet architecture is designed for intelligent interpretation of multi-modal remote sensing data. In this architecture, the RGB modality exhibits high spatial resolution characteristics, while the MS and VI modalities possess high spectral resolution characteristics. The abbreviation "MI" refers to the mutual information minimization module, "Conv3×3" represents a 3×3 convolutional layer, and "fc" represents a fully connected layer.
-
-</em>
-```
-
+    <img src="pic/RustQNet.png" width="70%" /> <br />
+    <em> 
+   Figure 1: Overview of RustQNet. RustQNet architecture is designed for intelligent interpretation of multi-modal remote sensing data. In this architecture, the RGB modality exhibits high spatial resolution characteristics, while the MS and VI modalities possess high spectral resolution characteristics. The abbreviation "MI" refers to the mutual information minimization module, "Conv3×3" represents a 3×3 convolutional layer, and "fc" represents a fully connected layer.
+    </em>
+</p>
 
 ### Usage
 
