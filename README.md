@@ -21,25 +21,19 @@ Code for paper: **Accurate and Large-scale Quantitative Inversion of Wheat Strip
    - Cuda 11.8
 2. Dataset structure
    
-   <p align="center">
-
-```
-<img src="pic/Dataset structure_1.png" width="70%" /> <br />
-
-<em> 
-
-Figure 2: structure of Dataset. 
-
-</em>
-```
+<p align="center">
+    <img src="pic/Dataset structure_1.png" width="70%" /> <br />
+    <em> 
+    Figure 2: structure of Dataset. 
+    </em>
+</p>
 
 <p align="center">
+    <img src="pic/Dataset structure_2.png" width="70%" /> <br />
+    <em> 
+    Figure 3: structure of Dataset. 
+    </em>
+</p>
+<p align="center">
 
-```
-<img src="pic/Dataset structure_2.png" width="70%" /> <br />
 
-<em> 
-
-Figure 2: structure of Dataset. 
-
-</em>
