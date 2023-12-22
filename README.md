@@ -22,14 +22,14 @@ Code for paper: **Accurate and Large-scale Quantitative Inversion of Wheat Strip
 2. Dataset structure
    
 <p align="center">
-    <img src="pic/Dataset structure_1.png" width="70%" /> <br />
+    <img src="pic/Dataset structure_1.png" width="50%" height="50%" /> <br />
     <em> 
     Figure 2: structure of Dataset. 
     </em>
 </p>
 
 <p align="center">
-    <img src="pic/Dataset structure_2.png" width="70%" /> <br />
+    <img src="pic/Dataset structure_2.png" width="30%" height="30%" /> <br />
     <em> 
     Figure 3: structure of txt list. 
     </em>
