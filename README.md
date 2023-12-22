@@ -4,7 +4,7 @@
 
 Code for paper: **Accurate and Large-scale Quantitative Inversion of Wheat Stripe Rust Disease Index: A Novel Multimodal UAV Dataset and Deep Learning Benchmark [[Arxiv]](https://scholar.google.com.hk/citations?user=mfrNGLoAAAAJ&hl=zh-CN)**
 
-## 1 Overview
+## Overview
 <p align="center">
     <img src="pic/RustQNet.png" width="70%" /> <br />
     <em> 
@@ -12,7 +12,7 @@ Code for paper: **Accurate and Large-scale Quantitative Inversion of Wheat Strip
     </em>
 </p>
 
-### Usage
+## Usage
 
 1. Requirements
    
@@ -31,9 +31,21 @@ Code for paper: **Accurate and Large-scale Quantitative Inversion of Wheat Strip
 <p align="center">
     <img src="pic/Dataset structure_2.png" width="70%" /> <br />
     <em> 
-    Figure 3: structure of Dataset. 
+    Figure 3: structure of txt list. 
     </em>
 </p>
 <p align="center">
+
+3. Training
+   - The training of entire RustQNet utilized one NVIDIA RTX 4090 GPU to accelerate.
+     - run  `python tools/train.py` in terminal
+   - (PS: The code of this project theoretically supports single-card and multi-card parallelism. However, this research has only been run on a single card. Multi-card parallelism still needs debugging and slight modifications.)
+
+4. Testing
+   - Run `python tools/test.py` in the terminal.
+## 6 Reference
+The code of this project mainly refers to **HRNet-Semantic-Segmentation-HRNet-OCR [[CODE]](https://github.com/HRNet/HRNet-Semantic-Segmentation)** and **RGB-D Saliency Detection via Cascaded Mutual Information Minimization [[CODE]](https://github.com/JingZhang617/cascaded_rgbd_sod)**
+   
+
 
 
