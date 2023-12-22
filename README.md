@@ -43,7 +43,7 @@ Code for paper: **Accurate and Large-scale Quantitative Inversion of Wheat Strip
 
 4. Testing
    - Run `python tools/test.py` in the terminal.
-## 6 Reference
+## Reference
 The code of this project mainly refers to **HRNet-Semantic-Segmentation-HRNet-OCR [[CODE]](https://github.com/HRNet/HRNet-Semantic-Segmentation)** and **RGB-D Saliency Detection via Cascaded Mutual Information Minimization [[CODE]](https://github.com/JingZhang617/cascaded_rgbd_sod)**
    
 
