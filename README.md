@@ -1,6 +1,6 @@
 # RustQNet，a DL-based quantitative architecture for multimodal image, designed for pixel-level quantitative inversion of wheat stripe rust (WSR) disease index (DI)
 
-## This site is still under construction....
+## This site is still under construction....The complete code will be made public after the paper is accepted.
 
 Code for paper: **Accurate and Large-scale Quantitative Inversion of Wheat Stripe Rust Disease Index: A Novel Multimodal UAV Dataset and Deep Learning Benchmark [[Arxiv]](https://scholar.google.com.hk/citations?user=mfrNGLoAAAAJ&hl=zh-CN)**
 
