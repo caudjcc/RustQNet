@@ -2,7 +2,7 @@
 
 ## This site is still under construction....The complete code will be made public after the paper is accepted.
 
-Code for paper: **Accurate and Large-scale Quantitative Inversion of Wheat Stripe Rust Disease Index: A Novel Multimodal UAV Dataset and Deep Learning Benchmark [[Arxiv]](https://scholar.google.com.hk/citations?user=mfrNGLoAAAAJ&hl=zh-CN)**
+Code for paper: **Unleashing the Potential of Multimodal UAV Imagery: RustQNet for Quantitative Inversion of Wheat Stripe Rust [[Arxiv]](https://scholar.google.com.hk/citations?user=mfrNGLoAAAAJ&hl=zh-CN)**
 
 ## Overview
 <p align="center">
